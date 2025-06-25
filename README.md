@@ -1,9 +1,11 @@
 # template-react-tailwind
 
-## 🚀 1. Create the App
+## 🚀 
+```bash
 cd template-react-tailwind
 pnpm install
 pnpm dev
+```
 
 Here's a **starter template** with:
 
